@@ -69,3 +69,6 @@ pnpm build
 - Стереофонический источник аудио
 
 Плагин использует **Web Audio API** для разделения и маршрутизации каналов.
+
+## Known Issues 
+- Now works only in Vesktop
