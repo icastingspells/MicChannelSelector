@@ -71,4 +71,4 @@ pnpm build
 Плагин использует **Web Audio API** для разделения и маршрутизации каналов.
 
 ## Known Issues 
-- Now works only in Vesktop
+- Now works only in Vesktop and Web version of Discord
